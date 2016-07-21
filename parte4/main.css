@@ -1,0 +1,29 @@
+.cont{
+    border: 1px solid;
+    width: 450px;
+    display: block;
+    float: left;
+    padding-right: 150px;
+}
+
+.div1 {
+    background: #FFFF00;
+    width: 150px;
+    height: 100px;
+    float: left;
+}
+.div2 {
+    background: #3A81BA;
+    width: 150px;
+    height: 100px;
+    float: left;
+    
+}
+.div3 {
+    background: #ED2251;
+    width: 150px;
+    height: 100px;
+    float: left;
+ 
+
+}
