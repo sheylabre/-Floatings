@@ -8,16 +8,19 @@
     width: 150px;
     height: 100px;
     padding: 10px;
+    float: left;
 }
 .div2 {
     background: #3A81BA;
     width: 150px;
     height: 100px;
     padding: 10px;
+    float: left;
 }
 .div3 {
     background: #ED2251;
     width: 150px;
     height: 100px;
     padding: 10px;
+    float: left;
 }
